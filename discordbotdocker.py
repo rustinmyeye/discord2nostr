@@ -5,7 +5,6 @@ import time
 import asyncio
 import json
 
-# Replace 'YOUR_DISCORD_CHANNEL_ID' with the ID of the Discord channel where you want to send feedback messages
 DISCORD_CHANNEL_ID = '<channel ID goes here>'
 
 # Initialize the Discord bot with the necessary intents
