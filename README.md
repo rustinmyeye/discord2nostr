@@ -1,5 +1,5 @@
 # discord2nostr
-A docker container that runs a discord bot and noscl that forwards messages from discord to nostr.
+A docker container that runs a discord bot and a noscl nostr client that forwards messages from discord to nostr.
 
 I use this to forward tweets from twitter to nostr, by having IFTTT send tweets to a discord channel, then this bot forwards to nostr from there.
 
